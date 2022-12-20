@@ -1,0 +1,1 @@
+This demo of a restaraunt page uses webpack to build a page where the DOM elements are primarily created through javascript. This project attempts to follow SOLID design principles. 
